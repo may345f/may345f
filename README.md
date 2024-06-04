@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá
+Meu nome é Bruno
+estou estudando no Alura na disciplina de Tecnologia da escola.
 
 <!--
 **may345f/may345f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
